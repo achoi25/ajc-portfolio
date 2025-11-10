@@ -3,7 +3,7 @@ export const resumeData = {
     name: "Andrew Choi",
     phone: "+1-703-420-0027",
     email: "ajchoi4@illinois.edu",
-    linkedin: "https://linkedin.com/in/choi-andrew-j/"
+    linkedin: "https://linkedin.com/in/andrew-choi-j/"
   },
   
   education: [
